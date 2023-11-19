@@ -8,4 +8,4 @@ navbar items should be resized to accurately fit in 1000px width.
 
 image of hero div should remain as it is.
 
-main items should have min-width 0f 280px and max-width of 380px.
+main items should have min-width 0f 280px and max-width of 380px, and left and risht 10px margin.
